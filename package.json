@@ -1,0 +1,59 @@
+{
+  "_from": "git+https://github.com/12d/react-native-amap.git",
+  "_id": "react-native-amap@0.4.0",
+  "_inBundle": false,
+  "_integrity": "sha1-7SSZhIGmfslpy87YlgXlpYyrZqo=",
+  "_location": "/react-native-amap",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-amap@git+https://github.com/12d/react-native-amap.git",
+    "name": "react-native-amap",
+    "escapedName": "react-native-amap",
+    "rawSpec": "git+https://github.com/12d/react-native-amap.git",
+    "saveSpec": "git+https://github.com/12d/react-native-amap.git",
+    "fetchSpec": "https://github.com/12d/react-native-amap.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/12d/react-native-amap.git#db3b9a6da53cf3eefc4e1ae5b87c7b6528b7174d",
+  "_spec": "react-native-amap@git+https://github.com/12d/react-native-amap.git",
+  "_where": "/Users/chen/Documents/workspace/LionTown",
+  "author": {
+    "name": "marshalYuan"
+  },
+  "bugs": {
+    "url": "https://github.com/dianwoba/react-native-amap/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "React Native AMap component for iOS + Android",
+  "devDependencies": {
+    "babel-eslint": "^6.1.0",
+    "eslint": "^3.0.1",
+    "eslint-plugin-flowtype": "^2.3.0",
+    "eslint-plugin-react": "^5.2.2",
+    "react": "^0.14.8",
+    "react-native": "^0.24.1"
+  },
+  "homepage": "https://github.com/dianwoba/react-native-amap#readme",
+  "keywords": [
+    "react",
+    "native",
+    "amap",
+    "location"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-amap",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianwoba/react-native-amap.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.4.0"
+}
